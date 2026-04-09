@@ -1,0 +1,29 @@
+{
+  "name": "lighthouse-grant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "onestop": "node scripts/onestop-lookup.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuluo/lighthouse-grant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yuluo/lighthouse-grant/issues"
+  },
+  "homepage": "https://github.com/yuluo/lighthouse-grant#readme",
+  "dependencies": {
+    "csv-parse": "^6.2.1",
+    "csv-stringify": "^6.7.0"
+  }
+}
